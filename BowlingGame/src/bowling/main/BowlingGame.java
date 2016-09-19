@@ -8,7 +8,7 @@ public class BowlingGame {
 	ArrayList<Member> memArr = new ArrayList<Member>();
 	
 	BowlingGame() {
-		System.out.println("BowlingGame 持失切!!!!");
+		System.out.println("BowlingGame 持失切!!!!!");
 	}
 	
 	public void startGame() {
