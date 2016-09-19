@@ -8,7 +8,7 @@ public class BowlingGame {
 	ArrayList<Member> memArr = new ArrayList<Member>();
 	
 	BowlingGame() {
-		System.out.println("BowlingGame 积己磊!");
+		System.out.println("BowlingGame 积己磊!!!!");
 	}
 	
 	public void startGame() {
@@ -18,7 +18,7 @@ public class BowlingGame {
 			Member member = new Member(i, "酒公俺"+i);
 			memArr.add(member);
 		}
-	} 
+	}
 	
 	public void playGame() {
 		System.out.println("Game Start!");
